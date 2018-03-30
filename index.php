@@ -7,6 +7,16 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <footer>
+
+
+<nav>
+  <ul>
+    <li>
+        J'accepte
+    </li>
+  </ul>
+</nav>
+    </footer>
 </body>
 </html>
