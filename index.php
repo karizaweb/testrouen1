@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+
+  <h1>Bienvenue sur mon site</h1>
+  <a href="http://"></a>
     <footer>
 
 
@@ -18,5 +21,8 @@
   </ul>
 </nav>
     </footer>
+
+
+
 </body>
 </html>
