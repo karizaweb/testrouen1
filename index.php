@@ -11,7 +11,7 @@
   <h1>Bienvenue sur mon site</h1>
   <a href="http://"></a>
     <footer>
-
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempore excepturi accusantium. Sed quibusdam dicta ipsam, voluptates corrupti tempora, fugit laborum natus molestiae accusantium perspiciatis voluptatem quos labore ratione quis?</p>
 
 <nav>
   <ul>
